@@ -3,7 +3,7 @@
 pkgbase=qtsvg
 pkgname=mingw-w64-x86_64-${pkgbase}6-static
 pkgnamesimple=${pkgbase}6-static
-pkgver=6.4.0
+pkgver=6.4.2
 pkgext=
 pkgrel=1
 pkgdesc='Qt6 classes for displaying the contents of SVG files - static libraries'
